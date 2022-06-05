@@ -1,0 +1,1 @@
+HTTP (protocolo de transferencia de hipertexto en español) es el protocolo de comunicación que usa la WWW para transferir info a través de los archivos que la componen.

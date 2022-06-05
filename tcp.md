@@ -1,0 +1,1 @@
+TCP es uno conjunto de reglas que permiten que los equipos se comuniquen a través de una red (el internet por ejemplo)
